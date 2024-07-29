@@ -26,4 +26,5 @@ ChatMinds is an AI-powered desktop voice assistant designed to enhance productiv
 - **os**: For interacting with the operating system.
 
 ## User Interface 
-![Screenshot (341).png]
+![ChatMinds UI](Screenshot (341).png)![Screenshot (341)](https://github.com/user-attachments/assets/7b961666-3495-4d9f-90e4-49046c2c5b87)
+
